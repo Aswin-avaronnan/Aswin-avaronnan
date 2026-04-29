@@ -2,7 +2,9 @@
 
 **M.Sc. Chemistry @ IIT Hyderabad** — but honestly, chemistry is just where I learned to think rigorously. These days I'm deep in AI evaluation, LLM pipelines, and building things that actually work.
 
-I come from an unusual corner of the AI world: I've evaluated RL agent outputs and spatial reasoning models in real annotation workflows — not just read papers about it. I'm a scientist by training, a builder by curiosity.
+I come from an unusual corner of the AI world: I've evaluated RL agent outputs and spatial reasoning models in real annotation workflows — not just read papers about it. I'm a scientist by training, a builder by curiosity, and a photographer by instinct.
+
+All three taught me the same thing: **the most important thing is often what isn't there.**
 
 ---
 
@@ -11,6 +13,7 @@ I come from an unusual corner of the AI world: I've evaluated RL agent outputs a
 - **AI Evaluation & Quality** — Validated prompt-response pairs for RL training, designed ground-truth annotations, benchmarked model outputs for spatial reasoning tasks. I care about whether AI systems *actually work*, not just whether they run.
 - **Building with LLMs** — Built an AI talent scouting agent (FastAPI + Gemini + Streamlit) at a hackathon as a non-CS student. Multi-step pipelines, token budgets, fallback routing — the whole thing.
 - **Scientist's mindset** — Electrochemistry research taught me reproducibility, anomaly detection, and structured documentation. Turns out those transfer directly to MLOps.
+- **Photographer's eye** — I photograph human emotion under the alias [tennruen](https://tennruen.github.io). Noticing what's missing in a frame and noticing what's wrong in a model output are, oddly, the same skill.
 
 ---
 
@@ -59,6 +62,9 @@ I'm actively looking for opportunities at the intersection of **AI quality, eval
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aswin-a-v/)
 [![Email](https://img.shields.io/badge/Email-aswin.avaronnan@gmail.com-D14836?style=flat&logo=gmail)](mailto:aswin.avaronnan@gmail.com)
+[![Photography](https://img.shields.io/badge/Photography-tennruen-black?style=flat&logo=github)](https://tennruen.github.io)
+
+*I also photograph human emotion — because some things are better observed than described.*
 
 ---
 
