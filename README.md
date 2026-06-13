@@ -1,59 +1,64 @@
 # Hey, I'm Aswin 👋
-
-**M.Sc. Chemistry @ IIT Hyderabad** — but honestly, chemistry is just where I learned to think rigorously. These days I'm deep in AI evaluation, LLM pipelines, and building things that actually work.
-
-I come from an unusual corner of the AI world: I've evaluated RL agent outputs and spatial reasoning models in real annotation workflows — not just read papers about it. I'm a scientist by training, a builder by curiosity, and a photographer by instinct.
-
-All three taught me the same thing: **the most important thing is often what isn't there.**
-
+ 
+I build things that sit at the intersection of **AI agents**, **embedded hardware**, and **full-stack systems** — usually inspired by a book, a film, or a race weekend.
+ 
+Every project here starts with a clear architecture and ends as something that actually runs.
+ 
 ---
-
-## 🧠 What I'm About
-
-- **AI Evaluation & Quality** — Validated prompt-response pairs for RL training, designed ground-truth annotations, benchmarked model outputs for spatial reasoning tasks. I care about whether AI systems *actually work*, not just whether they run.
-- **Building with LLMs** — Built an AI talent scouting agent (FastAPI + Gemini + Streamlit) at a hackathon as a non-CS student. Multi-step pipelines, token budgets, fallback routing — the whole thing.
-- **Scientist's mindset** — Electrochemistry research taught me reproducibility, anomaly detection, and structured documentation. Turns out those transfer directly to MLOps.
-- **Photographer's eye** — I photograph human emotion under the alias [tennruen](https://tennruen.github.io). Noticing what's missing in a frame and noticing what's wrong in a model output are, oddly, the same skill.
-
----
-
-## 🚀 Projects
-
-### 🎯 [Catalyst — AI Talent Scouting Agent](https://github.com/Aswin-avaronnan/Catalyst-hackathon-agent)
-> Built for Deccan AI Hackathon 2026
-
-An end-to-end LLM pipeline that parses free-form job descriptions, discovers candidates, scores them on a 60/40 match-interest model, and simulates conversational outreach to gauge intent.
-
-`Python` `FastAPI` `Streamlit` `Gemini 2.5` `Multi-agent` `Token budgeting`
-
----
-
-### 🧩 ADHD Life Assistant Agent *(In Ideation)*
-An AI agent designed to help people with ADHD manage tasks, routines, and overwhelm — using structured reminders, adaptive prompting, and low-friction interaction patterns. Building this because I believe AI should solve real human problems, not just benchmark problems.
-
-`Agentic AI` `LLM` `Accessibility` `Human-centered design`
-
----
-
-## 🛠 Skills & Tools
-
-| Area | Tools / Concepts |
+ 
+## 🛠️ What I Build
+ 
+| Domain | Stack |
 |---|---|
-| AI Evaluation | RLHF Annotation, Ground-Truth Generation, Model Benchmarking, Prompt Design |
-| ML Ops (Learning) | Data Validation Pipelines, Anomaly Detection, Structured Reporting |
-| Dev Tools | Python · FastAPI · Streamlit · Git · Excel · OriginLab |
-| Exploring | RAGAS · DeepEval · LangChain · Data Viz · AI for Science |
-
+| AI Agents & LLM Systems | Python · FastAPI · Groq · Gemini · OpenRouter |
+| Full-Stack Web | Next.js 14 · TypeScript · Tailwind · shadcn/ui · Vercel |
+| Embedded & Hardware | Raspberry Pi · Pygame · PCM5102A · ST7789 LCD |
+| Terminal & TUI | Python curses · Rich · Pygame sockets |
+| Deployment | HuggingFace Spaces · Docker · Vercel |
+ 
 ---
-
-## 📌 Currently
-
-- 🔬 M.Sc. Research @ IITH — Electrochemical characterisation of Ti-based MXene for energy storage
-- 🧪 Learning Python seriously (Pandas, NumPy, data pipelines)
-- 🤖 Exploring LLM evaluation frameworks (RAGAS, DeepEval)
-- 💼 Open to **freelance AI evaluation / annotation** work and **ML Ops Analyst** roles
-- 🛠 Ideating the ADHD agent — DM me if this resonates with you
-
+ 
+## 🚀 Projects
+ 
+### 🪨 Rocky — AI Desk Companion
+*Inspired by* Project Hail Mary *by Andy Weir*
+ 
+Rocky is an emotionally-aware AI companion with a pixel-art sprite, a terminal TUI, and a cloud-deployed brain. Talk to it. It remembers you.
+ 
+→ [`Rocky-v1.0-soft-`](https://github.com/Aswin-avaronnan/Rocky-v1.0-soft-) · [Live](https://rocky-v1-0-soft.vercel.app)
+ 
+---
+ 
+### 🎯 Catalyst Scout — AI Talent Scouting Agent
+*Built for Deccan AI Hackathon 2026*
+ 
+Paste a job description. Get a ranked shortlist of candidates with match scores, gap analysis, and simulated interest scoring — all in under 10 seconds.
+ 
+→ [`Catalyst-hackathon-agent`](https://github.com/Aswin-avaronnan/Catalyst-hackathon-agent)
+ 
+---
+ 
+### ⚡ Protocol 314 — Frontend
+Next.js 14 + TypeScript frontend, deployed on Vercel. Clean, fast, production-grade.
+ 
+→ [`Protocol-314-frontend`](https://github.com/Aswin-avaronnan/Protocol-314-frontend) · [Live](https://protocol-314-frontend.vercel.app)
+ 
+---
+ 
+## 🔭 On the Horizon
+ 
+- **Catalyst Scout v2** — Production SaaS version with BYOK model, PDF ingestion, and AI-to-AI interview simulation
+- **FRIDAY** — Iron Man-inspired voice assistant running locally on Raspberry Pi 5
+- **F1 Pitwall** — Real-time telemetry system with OpenF1 API and Rich terminal UI
+- **Custom Music Player** — Pi Zero 2W with DAC, IPS LCD, and LiPo battery
+---
+ 
+## 📐 How I Work
+ 
+- **Plan before coding** — architecture and open questions are locked before a line is written
+- **Iterative versioning** — clear scope gates between v0 → v1 → v2, no feature creep
+- **Free tier by default** — Groq, HuggingFace Spaces, Vercel free tiers are treated as hard constraints
+- **Modular design** — agent / tools / API / UI are always separated
 ---
 
 ## 🤝 Let's Connect
