@@ -67,7 +67,7 @@ I'm actively looking for opportunities at the intersection of **AI quality, eval
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aswin-a-v/)
 [![Email](https://img.shields.io/badge/Email-aswin.avaronnan@gmail.com-D14836?style=flat&logo=gmail)](mailto:aswin.avaronnan@gmail.com)
-[![Photography](https://img.shields.io/badge/Photography-tennruen-black?style=flat&logo=github)](https://tennruen.github.io)
+[![Photography](https://img.shields.io/badge/Photography-tennruen-black?style=flat&logo=github)](https://aswin-avaronnan.runs-on.dev)
 
 *I also photograph human emotion — because some things are better observed than described.*
 
